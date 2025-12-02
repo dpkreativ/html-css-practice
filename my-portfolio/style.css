@@ -20,6 +20,10 @@ a {
   margin-right: 10px;
 }
 
+a:hover {
+  color: red;
+}
+
 img {
   height: 300px;
   width: 300px;
